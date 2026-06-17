@@ -1,2 +1,0 @@
-Stock Portfolio Tracker
-Total Investment Value: $25000
